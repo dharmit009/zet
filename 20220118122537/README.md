@@ -1,6 +1,0 @@
-# lets see the error again ... 
-
-I wonder what is actually going on here why used refs, head and main?
-Is the code actually merging things or pulling things ... I dont know
-lets see how can I fix this for me :) ... 
-
