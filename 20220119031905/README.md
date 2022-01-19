@@ -11,6 +11,11 @@ values to any key.
 Here is a sample code:
 
 ```
-
+select_op = {
+		"1": openacc(),
+		"2": deposit(),
+		"3": withdraw(),
+		"4": displayInfo(),
+}
 
 ```
