@@ -19,3 +19,5 @@ select_op = {
 }
 
 ```
+TAGS:
+	python3 dictionaries
