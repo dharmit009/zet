@@ -10,6 +10,10 @@ get through all of it.
 
 [Speed Reading for Dummies](https://www.amazon.com/Speed-Reading-Dummies-Richard-Sutz/dp/0470457449)
 
+Take away from the books: 
+
+1. Improve your vocabulary.
+
 TAGS:
 		#speed-reading #reading #books
 
