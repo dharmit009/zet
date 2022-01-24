@@ -7,3 +7,5 @@ If you don't understand that one particular topic skip it for now try some other
 
 > Learn how to be consistent? and it's not to know somethings !!
 
+> Understand you gotta crawl before you get to your feet. - NF 
+
