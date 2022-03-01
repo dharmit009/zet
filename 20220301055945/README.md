@@ -7,3 +7,6 @@ you do not use `-n` and `-e` switches.
 At this point I would rather use `printf` as it offers me more 
 such as C-Style formatting which I like to use that a lot. 
 
+# Tags: 
+  
+  #posix #shell-scripting #echo #printf
