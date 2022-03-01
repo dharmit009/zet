@@ -1,6 +1,7 @@
 # Never Use Markdown Inline Links: 
 
 * **What is Markdown?**
+
 Markdown is one of the most popular way to **Document your Project /
 Programs**. There are many different flavours of Markdown but I prefer
 to use **Common Mark** for it's *simplicity* and *industry-like*
@@ -51,4 +52,5 @@ Plus I only need to update link in one place for relative links.
 ```
 
 Tags: 
+
     #markdown #commonmark #links #relativelinks
