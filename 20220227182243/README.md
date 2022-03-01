@@ -21,8 +21,8 @@ Let me show you some the difference:
 
 🙂 Hi there !!, Whats up ? Hope everything is going well. Here is
 my [Github](https://github.com/dharmit009) page. Sadly I am not
-available on [Twitch](https://www.twitch.com) or [Youtube]
-(https://youtube.com/). Hope you like my
+available on [Twitch](https://www.twitch.com) or on
+[Youtube](https://www.youtube.com). Hope you like my
 [Github](https://github.com/dharmit009) page. 
 
 While writing this Paragraph I just realize I cannot reference the an
