@@ -19,7 +19,7 @@ print(a(2))
 
 > 4
 
-* **When to use lambda functions?**
+## When to use lambda functions?
 
 The best place to use lambda functions are when you require to do
 something mathematical or when you require a function which you are
