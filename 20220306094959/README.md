@@ -19,6 +19,13 @@ print(a(2))
 
 > 4
 
-Tags:
+* **When to use lambda functions?**
+
+The best place to use lambda functions are when you require to do
+something mathematical or when you require a function which you are
+going to use much just for a couple times maybe that's when you should
+use lambda functions
+
+# Tags:
 
     #python #lambda #functions #anonymous
