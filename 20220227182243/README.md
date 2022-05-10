@@ -1,11 +1,11 @@
-# Never Use Markdown Inline Links: 
+# Never Use Markdown Inline Links:
 
 * **What is Markdown?**
 
 Markdown is one of the most popular way to **Document your Project /
 Programs**. There are many different flavours of Markdown but I prefer
 to use **Common Mark** for it's *simplicity* and *industry-like*
-standards. 
+standards.
 
 * **Why should not use Inline Links in Your Markdown?**
 
@@ -15,7 +15,7 @@ Now, you might how come isn't Markdown suppose to improve the
 readability of the documentation? This problem is specifically faced by
 CLI users as it makes things ambiguous.
 
-Let me show you some the difference: 
+Let me show you some the difference:
 
 ```markdown
 

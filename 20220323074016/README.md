@@ -18,7 +18,7 @@ terrible Idea!! Right? ... As I was configuring I realize it is better
 to just use **Netbeans** for this stuff as configuring `vim` is such a
 manner was a waste of time and exact opposite of **Unix Philosophy**.
 
-TLDR: Use VIM but not for everything. Some tools are simply just better
+**TLDR:** Use **VIM** but not for everything. Some tools are simply just better
 for the job.
 
 Tags:
