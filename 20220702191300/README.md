@@ -1,4 +1,4 @@
-# What is Liner Time or O(n)?
+# What is Linear Time or O(n)?
 
 When number of inputs is equal to number of operations
 the algorithm is said to be linear or O(n).
