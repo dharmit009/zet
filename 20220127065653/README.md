@@ -1,5 +1,7 @@
 # Are Crypto's a Scam?
 
+Hello het
+
 > I need to collect some thought on it... still gathering some thoughts ...
 
 `Folded cases` pointed out that Bitcoin has been flawed by design, the fact that it uses a ton of energy while being inefficient when compared to banks. 
